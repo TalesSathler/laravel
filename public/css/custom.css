@@ -1,0 +1,13 @@
+table i {
+    font-size: 20px !important;
+    padding: 1%;
+}
+
+a > i, button > i {
+    font-size: 20px !important;
+    vertical-align: middle;
+}
+
+.main-header .logo {
+    padding: 0px !important;
+}
